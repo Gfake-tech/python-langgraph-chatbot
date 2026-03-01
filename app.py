@@ -1,4 +1,15 @@
 """
+/**
+ * @name LangGraph PDF Chatbot
+ * @author Md. Samiur Rahman (Mukul)
+ * @description LangGraph PDF Chatbot — AI-powered PDF Q&A System ~ Developed By Md. Samiur Rahman (Mukul)
+ * @copyright ©2026 ― Md. Samiur Rahman (Mukul). All rights reserved.
+ * @version v0.0.1
+ *
+ */
+"""
+
+"""
 LangGraph PDF Chatbot — Educational GUI
 =======================================
 Run:  python app.py  →  http://localhost:7860
